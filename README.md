@@ -49,7 +49,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_sithumyo)
  
  <p align="center">
   <h4> Full Stack | Typescript | Competitive Programming </h4>
@@ -117,7 +117,7 @@
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in India</p>
+<p align="center">Made with ❤️ in Myanmar</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
