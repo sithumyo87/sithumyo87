@@ -23,7 +23,7 @@
 
 <p align="center">
    <a href="#"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
-<!--    <a href="#"> <img alt="hemant joshi github" src="#"> </a> -->
+<!--    <a href="#"> <img alt="sithumyo github" src="#"> </a> -->
  </p>
  
  <h5 align="center">
