@@ -22,7 +22,7 @@
 
 
 <p align="center">
-   <a href="#"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
+   <a href="#"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_hemant_joshi?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@sithumyo"></a>
 <!--    <a href="#"> <img alt="sithumyo github" src="#"> </a> -->
  </p>
  
@@ -105,8 +105,9 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
+<!--    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" /> -->
+   <iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo">via GIPHY</a></p>
+ </p>
    
    
 <br />
